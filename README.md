@@ -1,0 +1,25 @@
+# mysql常用命令
+<!-- TOC depthFrom:2 depthTo:3 -->
+- [一、MySQL基础操作命令](#一MySQL基础操作命令)
+- [二、MySQL库相关的命令](#二MySQL库相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+- [三、MySQL表相关的命令](#三MySQL表相关的命令)
+<!-- /TOC -->
+
